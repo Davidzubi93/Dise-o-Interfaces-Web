@@ -1,0 +1,14 @@
+{
+  "name": "workspace",
+  "homepage": "https://github.com/Davidzubi93/Dise-o-Interfaces-Web",
+  "authors": [
+    "davidzubi <davidzubi93@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "parallax.js": "^1.4.2"
+  }
+}
